@@ -6,8 +6,8 @@ public class Main {
 
         dataManager.registerDataProcessor(new DataFilter());
 
-        dataManager.loadData("C:\\Users\\User\\IdeaProjects\\untitled\\src\\lab.java1.java8\\age.txt");
+        dataManager.loadData("C:\\Users\\User\\IdeaProjects\\untitled\\src\\lab\\java8\\age.txt");
         dataManager.processData();
-        dataManager.saveData("C:\\Users\\User\\IdeaProjects\\untitled\\src\\lab.java1.java8\\result.txt");
+        dataManager.saveData("C:\\Users\\User\\IdeaProjects\\untitled\\src\\lab\\java8\\result.txt");
     }
 }
