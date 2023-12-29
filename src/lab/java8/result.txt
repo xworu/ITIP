@@ -1,0 +1,23 @@
+Can drink:
+Alice
+Kai
+Kazumi
+Keiji
+Shunsuke
+Sou
+Naomichi
+Mai
+Megumi
+Reko
+Q-Taro
+Nao
+
+Can't drink:
+Anzu
+Kanna
+Gin
+Kugie
+Sara
+Joe
+Hinako
+Ranmaru
